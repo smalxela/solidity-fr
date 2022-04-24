@@ -48,8 +48,7 @@ Pour commencer
 **1. Comprendre les bases des contrats intelligents**
 
 Si le concept des contrats intelligents est nouveau pour vous, nous vous recommandons
-de commencer par vous plonger dans la section "Introduction aux contrats intelligents".
-dans la section "Introduction aux contrats intelligents", qui couvre :
+de commencer par vous plonger dans la section "Introduction aux Smarts Contracts" qui couvre :
 
 * :ref:`Un exemple simple de smart contract <simple-smart-contract>` écrit sous Solidity.
 * :ref:`Les bases de la blockchain <blockchain-basics>`.
@@ -57,7 +56,7 @@ dans la section "Introduction aux contrats intelligents", qui couvre :
 
 **2. Apprenez à connaître Solidity**
 
-Une fois que vous êtes habitué aux bases, nous vous recommandons de lire les sections :doc:`"Solidity by Example" <solidity-by-example>`
+Une fois que vous êtes habitué aux bases, nous vous recommandons de lire les sections :doc:`"Solidity par l'Exemple" <solidity-by-example>`
 et "Description du langage" pour comprendre les concepts fondamentaux du langage.
 
 **3. Installer le compilateur Solidity**
@@ -69,7 +68,7 @@ Il vous suffit de choisir votre option préférée et de suivre les étapes déc
   Vous pouvez essayer des exemples de code directement dans votre navigateur grâce à la fonction
   `Remix IDE <https://remix.ethereum.org>`_. Remix est un IDE basé sur un navigateur web
   qui vous permet d'écrire, de déployer et d'administrer les smart contracts Solidity,
-  sans avoir à sans avoir besoin d'installer Solidity localement.
+  sans avoir besoin d'installer Solidity localement.
 
 .. warning::
     Comme les humains écrivent des logiciels, ceux-ci peuvent comporter des bugs.
